@@ -33,7 +33,7 @@
                                     {{method_field('DELETE')}}
                                     <button 
                                         type="submit" 
-                                        onclick="return confirm('¿Estas seguro?')"
+                                        onclick="return confirm('¿Desea eliminar este usuario?')"
                                         value="delete"
                                         class="btn btn-danger"
                                     >Eliminar
