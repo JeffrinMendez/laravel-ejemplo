@@ -20,7 +20,7 @@
                             <td>{{ $usuario->name }}</td>
                             <td>{{ $usuario->email }}</td>
                             <td>
-                                <button class="btn btn-secondary"> 
+                                <button class="btn btn-secondary" style="background-color: black"> 
                                     <i class="fa fa-trash">Modificar</i> 
                                 </button>
                                 |
